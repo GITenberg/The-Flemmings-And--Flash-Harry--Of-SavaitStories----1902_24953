@@ -1,0 +1,32 @@
+_repo: The-Flemmings-And--Flash-Harry--Of-SavaitStories----1902_24953
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Becke, Louis
+    alias: Becke, George Louis
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '1317'
+    url: http://www.gutenberg.org/2009/agents/1317
+    wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
+description: ''
+gutenberg_issued: '2008-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PR'
+title: 'The Flemmings And "Flash Harry" Of Savait
+
+  From "The Strange Adventure Of James Shervinton and Other
+
+  Stories" - 1902'
+url: http://www.gutenberg.org/ebooks/24953
